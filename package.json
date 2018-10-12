@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "gleb-mihalkov",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gleb-mihalkov/vue-utils.git"
+  },
+  "keywords": [
+    "vue",
+    "vuex"
+  ],
+  "bugs": {
+    "url": "https://github.com/gleb-mihalkov/vue-utils/issues"
+  },
+  "homepage": "https://github.com/gleb-mihalkov/vue-utils#readme"
 }
